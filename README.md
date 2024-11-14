@@ -115,4 +115,4 @@ The neural network evaluates chess positions using:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE file](LICENSE) for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
