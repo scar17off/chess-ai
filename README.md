@@ -41,13 +41,6 @@ This launches a Gradio-based web interface with the following features:
 - Training game generation
 - Model training interface
 
-### Desktop Interface
-
-Run the desktop interface with:
-```bash
-python main.py
-```
-
 Features include:
 - Pygame-based graphical interface
 - Neural network visualization
@@ -94,7 +87,6 @@ Game parameters can be adjusted in `chess_config.json`:
 ## Project Structure
 
 - `webui.py`: Web interface implementation
-- `main.py`: Desktop interface implementation
 - `neural_network.py`: Neural network model
 - `game_recorder.py`: Game recording functionality
 - `generate_training_games.py`: Training data generation
