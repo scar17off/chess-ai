@@ -1,0 +1,10 @@
+[Event "Training Game - Queen's Gambit"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "8"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Queen's Gambit"]
+
+1. d4 c6 2. c4 b6 3. e4 e5 4. dxe5 a5 5. g4 g5 6. Bxg5 Qxg5 7. h4 Qxg4 8. Qxg4 Bc5 9. Qxg8+ Rxg8 10. a4 Rxg1 11. Rxg1 Bxf2+ 12. Kxf2 d5 13. cxd5 Kf8 14. dxc6 Ba6 15. Bxa6 Rxa6 16. b4 axb4 17. c7 Rxa4 18. cxb8=Q+ Ke7 19. Rxa4 h5 20. Rxb4 b5 21. Rxb5 f5 22. exf5 Kf7 23. Rb7# 1-0

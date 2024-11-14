@@ -1,0 +1,10 @@
+[Event "Training Game - Alekhine's Defense"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "9"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Alekhine's Defense"]
+
+1. e4 g5 2. d4 h6 3. Bxg5 hxg5 4. g4 Rxh2 5. Rxh2 b6 6. c4 e5 7. dxe5 a5 8. b4 axb4 9. f4 gxf4 10. a4 bxa3 11. Nxa3 Rxa3 12. Rxa3 Bxa3 13. Qxd7+ Qxd7 14. g5 f5 15. gxf6 Nxf6 16. exf6 Qd4 17. c5 Qxg1 18. cxb6 Qxh2 19. bxc7 Bd7 20. cxb8=Q+ Bc8 21. Qxc8+ Kf7 22. e5 Qg3+ 23. Ke2 Bb4 24. Qc7+ Be7 25. fxe7 Qh2+ 26. Kd1 Qf2 27. e8=R+ Kxe8 28. e6 Qxf1+ 29. Kc2 Qb1+ 30. Kxb1 Kf8 31. Qf7# 1-0

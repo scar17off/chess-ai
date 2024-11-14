@@ -1,0 +1,10 @@
+[Event "Training Game - London System"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "50"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "London System"]
+
+1. d4 b5 2. e4 d5 3. exd5 Be6 4. dxe6 Qxd4 5. Qxd4 g5 6. Qxh8 c6 7. Qxg8 f5 8. Bxg5 Na6 9. Bxb5 cxb5 10. Qxh7 O-O-O 11. Qxf5 Bg7 12. Qxb5 Nb4 13. Qxb4 Rd5 14. Qxe7 Rxg5 15. Qxg5 Bxb2 16. g4 Bxa1 17. a4 a6 18. f4 Bd4 19. c4 Bxg1 20. Rxg1 Kb8 21. h4 Kc8 22. a5 Kb7 23. f5 Ka7 24. e7 Kb8 25. e8=Q+ Ka7 26. Qge7# 1-0

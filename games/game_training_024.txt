@@ -1,0 +1,10 @@
+[Event "Training Game - Van Geet Opening"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "24"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Van Geet Opening"]
+
+1. Nc3 g6 2. e4 d5 3. Nxd5 Qxd5 4. exd5 Bg7 5. d4 Bxd4 6. Qxd4 c5 7. Qxh8 Bh3 8. gxh3 h5 9. Qxg8+ Kd7 10. Qxb8 Rxb8 11. b4 cxb4 12. c4 bxc3 13. a4 f5 14. f4 Kd8 15. h4 b5 16. axb5 e5 17. fxe5 Rxb5 18. Bxb5 c2 19. Rxa7 f4 20. Bxf4 c1=Q+ 21. Bxc1 g5 22. hxg5 Kc8 23. h4 Kb8 24. g6 Kxa7 25. g7 Kb8 26. g8=Q+ Kc7 27. Qh8 Kb7 28. Qxh5 Kb6 29. Be3+ Kxb5 30. Bd4 Ka6 31. Qe2+ Kb7 32. h5 Kb8 33. Qe4 Kc7 34. h6 Kd7 35. h7 Kc7 36. h8=Q Kb7 37. Qh2 Ka8 38. Ne2 Kb7 39. O-O Kb8 40. Rf6 Kc8 41. Qh8+ Kb7 42. Qeh7# 1-0

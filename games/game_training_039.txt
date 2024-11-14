@@ -1,0 +1,10 @@
+[Event "Training Game - Three Knights Game"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "39"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Three Knights Game"]
+
+1. e4 b5 2. Nf3 d5 3. Nc3 e5 4. Nxe5 dxe4 5. Nxe4 h6 6. Bxb5+ Bd7 7. Bxd7+ Qxd7 8. Nxd7 Nxd7 9. d4 Rh7 10. Bxh6 gxh6 11. c4 Rg7 12. b4 Ke7 13. f4 Rxg2 14. h4 Ngf6 15. Nxf6 Kxf6 16. a4 h5 17. Qxh5 Bxb4+ 18. Kf1 c6 19. Kxg2 Rf8 20. Qe5+ Nxe5 21. fxe5+ Kg7 22. a5 Bd6 23. exd6 Kg6 24. c5 Rd8 25. d5 Rxd6 26. cxd6 cxd5 27. d7 d4 28. d8=Q a6 29. Qxd4 f5 30. h5+ Kh7 31. h6 Kg6 32. Qg7# 1-0

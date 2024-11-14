@@ -1,0 +1,10 @@
+[Event "Training Game - Ware Opening"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "28"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Ware Opening"]
+
+1. a4 e5 2. d4 exd4 3. Qxd4 Ke7 4. Qe5# 1-0

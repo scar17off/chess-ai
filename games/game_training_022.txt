@@ -1,0 +1,10 @@
+[Event "Training Game - Polish Opening"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "22"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Polish Opening"]
+
+1. b4 h6 2. e4 e6 3. d4 Bxb4+ 4. c3 g6 5. cxb4 e5 6. dxe5 a5 7. bxa5 Rxa5 8. Bxh6 Nxh6 9. Qxd7+ Nxd7 10. f4 Rxe5 11. fxe5 Nxe5 12. g4 Be6 13. h4 Bxg4 14. a4 Qxh4+ 15. Rxh4 f6 16. Rxg4 Nhxg4 17. a5 Nc4 18. Bxc4 Nh2 19. a6 Ng4 20. axb7 Nf2 21. b8=Q+ Kd7 22. Qxh8 Ke7 23. Kxf2 f5 24. exf5 c5 25. fxg6 Kd7 26. Qd4+ cxd4 27. Bd5 Kc7 28. g7 Kd6 29. g8=Q d3 30. Qg2 Kc7 31. Qe4 Kd7 32. Qxd3 Ke7 33. Qe4+ Kd8 34. Ra7 Kc8 35. Qe8# 1-0

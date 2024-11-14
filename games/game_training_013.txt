@@ -1,0 +1,10 @@
+[Event "Training Game - Vienna Game"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "13"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Vienna Game"]
+
+1. e4 a5 2. Nc3 e5 3. d4 exd4 4. Qxd4 Qg5 5. Bxg5 b5 6. Nxb5 c5 7. Nc7# 1-0

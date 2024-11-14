@@ -1,0 +1,10 @@
+[Event "Training Game - Dutch Defense"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "7"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Dutch Defense"]
+
+1. d4 g6 2. e4 c6 3. a4 h5 4. Qxh5 gxh5 5. g4 hxg4 6. b4 Bg7 7. h4 a5 8. bxa5 Rxh4 9. Rxh4 Bxd4 10. Rxg4 Bxa1 11. Rxg8# 1-0

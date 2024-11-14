@@ -1,0 +1,10 @@
+[Event "Training Game - St. George Defense"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "33"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "St. George Defense"]
+
+1. e4 a6 2. Bxa6 bxa6 3. d4 c6 4. b4 Nh6 5. Bxh6 gxh6 6. g4 e5 7. dxe5 a5 8. bxa5 Rxa5 9. c4 Rxe5 10. h4 Rxe4+ 11. Ne2 Rxe2+ 12. Qxe2+ Be7 13. f4 Rf8 14. a4 c5 15. Qe4 f5 16. gxf5 Rxf5 17. Qxf5 Bxh4+ 18. Rxh4 Qxh4+ 19. Ke2 Qf2+ 20. Kxf2 d6 21. Qxc8+ Kf7 22. Qxb8 h5 23. Qxd6 h4 24. Qxc5 Kg6 25. Qe5 h5 26. Qxh5+ Kxh5 27. a5 h3 28. f5 Kg5 29. f6 Kxf6 30. a6 Ke6 31. c5 Kf5 32. a7 Kg6 33. a8=Q Kf7 34. c6 Ke7 35. c7 Kd6 36. c8=Q Ke5 37. Qxh3 Kd4 38. Qc3# 1-0

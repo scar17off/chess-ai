@@ -1,0 +1,10 @@
+[Event "Training Game - Queen's Indian Defense"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "15"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Queen's Indian Defense"]
+
+1. d4 a6 2. c4 Nf6 3. Nf3 e6 4. e4 Nxe4 5. b4 g5 6. Nxg5 Qxg5 7. Bxg5 Nxg5 8. g4 Bxb4+ 9. Nd2 Bxd2+ 10. Qxd2 c5 11. Qxg5 cxd4 12. f4 d5 13. cxd5 e5 14. fxe5 Bd7 15. Bxa6 Rxa6 16. a4 Rxa4 17. Rxa4 Bxa4 18. h4 h6 19. Qxh6 Rxh6 20. g5 d3 21. gxh6 Ke7 22. h7 Bc2 23. h8=Q Nd7 24. h5 Nxe5 25. Qxe5+ Kd8 26. h6 b5 27. h7 Bb3 28. h8=Q+ Kd7 29. Qhe8# 1-0

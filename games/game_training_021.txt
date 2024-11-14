@@ -1,0 +1,10 @@
+[Event "Training Game - Budapest Gambit"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "21"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Budapest Gambit"]
+
+1. d4 Nh6 2. c4 b5 3. Bxh6 gxh6 4. cxb5 d5 5. e4 dxe4 6. g4 Bxg4 7. Qxg4 h5 8. Qxe4 Qxd4 9. Qxd4 e5 10. Qxe5+ Kd8 11. Qxh8 c6 12. Qxf8+ Kc7 13. Qxb8+ Kxb8 14. bxc6 f6 15. b4 Kc7 16. h4 Kd6 17. f4 Kxc6 18. a4 Rd8 19. a5 Rb8 20. b5+ Rxb5 21. Bxb5+ Kxb5 22. a6 h6 23. f5 Kb4 24. Kd1 Kb5 25. Ke2 Kb4 26. Ra5 Kxa5 27. Kd1 Kxa6 28. Nh3 Kb7 29. Kd2 a5 30. Kc1 a4 31. Nf4 Kc8 32. Nxh5 Kd7 33. Nxf6+ Kc7 34. Nd5+ Kb8 35. f6 Kb7 36. f7 Ka8 37. f8=Q+ Kb7 38. Qxh6 a3 39. Nxa3 Ka7 40. h5 Ka8 41. Nb1 Ka7 42. Kb2 Kb7 43. Qf4 Kc6 44. Qe5 Kc5 45. h6 Kb5 46. h7 Kc5 47. h8=Q Kc6 48. Qhh2 Kd7 49. Kc3 Kc8 50. Qc7# 1-0

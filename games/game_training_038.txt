@@ -1,0 +1,10 @@
+[Event "Training Game - Nimzowitsch Defense"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "38"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Nimzowitsch Defense"]
+
+1. e4 g6 2. d4 g5 3. Bxg5 a6 4. Bxa6 Rxa6 5. Bxe7 Nxe7 6. h4 Rg6 7. f4 Rxg2 8. b4 Rxg1+ 9. Rxg1 c5 10. bxc5 Nbc6 11. a4 d6 12. cxd6 Nxd4 13. Qxd4 f5 14. Qxh8 fxe4 15. dxe7 Kxe7 16. Qxf8+ Qxf8 17. c4 Kd7 18. h5 h6 19. a5 Qxf4 20. c5 b5 21. cxb6 Qc7 22. bxc7 Bb7 23. c8=Q+ Bxc8 24. a6 Bxa6 25. Rxa6 Kd8 26. Rxh6 e3 27. Kf1 Ke8 28. Rh8+ Ke7 29. h6 Kf7 30. h7 e2+ 31. Kxe2 Ke7 32. Kf1 Kd6 33. Ke2 Kd7 34. Kf2 Ke6 35. Kf3 Kf5 36. Rg4 Ke6 37. Re4+ Kf7 38. Rd4 Ke6 39. Ke4 Ke7 40. Rc8 Kf7 41. h8=Q Ke6 42. Qe5+ Kf7 43. Ra8 Kg6 44. Rc8 Kh7 45. Rh8+ Kg6 46. Rh3 Kf7 47. Rh7+ Kg8 48. Qg7# 1-0

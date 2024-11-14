@@ -1,0 +1,10 @@
+[Event "Training Game - Grünfeld Defense"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "14"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Grünfeld Defense"]
+
+1. d4 b6 2. c4 a6 3. Nc3 g5 4. Bxg5 h5 5. Bxe7 Qxe7 6. e4 d5 7. cxd5 Qxe4+ 8. Nxe4 Bc5 9. dxc5 h4 10. cxb6 f5 11. bxc7 fxe4 12. cxb8=Q Rxb8 13. Bxa6 Bxa6 14. g4 Ke7 15. f4 exf3 16. Qxf3 Bd3 17. Qxd3 h3 18. Nxh3 Rxh3 19. Qxh3 Kf7 20. b4 Rf8 21. a4 Rd8 22. g5 Rc8 23. Qxc8 Kg7 24. h4 Kf7 25. Qxg8+ Kxg8 26. h5 Kh7 27. b5 Kg8 28. b6 Kg7 29. g6 Kf8 30. a5 Ke8 31. b7 Ke7 32. b8=Q Kf6 33. a6 Kg7 34. h6+ Kxg6 35. a7 Kf7 36. a8=Q Ke7 37. h7 Kd7 38. Qd8# 1-0

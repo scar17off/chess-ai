@@ -1,0 +1,10 @@
+[Event "Training Game - Caro-Kann"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "4"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Caro-Kann"]
+
+1. e4 b5 2. Bxb5 e5 3. Bxd7+ Bxd7 4. d4 exd4 5. Qxd4 g5 6. Qxh8 Ba3 7. bxa3 a5 8. Qxg8+ Ke7 9. Qxd8+ Kxd8 10. Bxg5+ Kc8 11. c4 a4 12. g4 Bxg4 13. f4 Bh3 14. Nxh3 Kd7 15. e5 h6 16. Bxh6 c6 17. c5 Kc8 18. f5 Ra7 19. f6 Kc7 20. Nd2 Kd8 21. Ne4 Nd7 22. Ke2 Nxc5 23. Nxc5 Ra8 24. Nxa4 Rxa4 25. Kf2 Rxa3 26. Rae1 Rxh3 27. a4 Rxh6 28. h4 Rxf6+ 29. exf6 c5 30. h5 c4 31. Re5 Kd7 32. h6 Kc7 33. a5 Kd8 34. a6 Kc8 35. h7 Kc7 36. h8=Q c3 37. a7 Kb7 38. a8=Q+ Kc7 39. Qhd8# 1-0

@@ -1,0 +1,10 @@
+[Event "Training Game - Dunst Opening"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "30"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Dunst Opening"]
+
+1. Nc3 Na6 2. e4 Nb4 3. d4 d6 4. g4 Nxc2+ 5. Qxc2 Bxg4 6. a4 h5 7. f4 Bh3 8. Bxh3 b5 9. axb5 g5 10. fxg5 Nh6 11. gxh6 Bxh6 12. Bxh6 Rxh6 13. Rxa7 Rxa7 14. b4 Qa8 15. d5 Re6 16. dxe6 fxe6 17. Bxe6 Kf8 18. h4 Qxe4+ 19. Qxe4 Ra4 20. Nxa4 Kg7 21. b6 cxb6 22. Nxb6 Kf6 23. Nd5+ Kg7 24. Nxe7 d5 25. Bxd5 Kf8 26. b5 Kg7 27. b6 Kf6 28. b7 Kg7 29. b8=Q Kf6 30. Qf8# 1-0

@@ -1,0 +1,10 @@
+[Event "Training Game - King's Indian"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "10"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "King's Indian"]
+
+1. d4 f6 2. c4 a5 3. e4 f5 4. exf5 Nh6 5. Bxh6 gxh6 6. Qh5# 1-0

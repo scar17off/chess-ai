@@ -1,0 +1,10 @@
+[Event "Training Game - Larsen's Opening"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "25"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Larsen's Opening"]
+
+1. b3 f5 2. d4 g6 3. e4 fxe4 4. f4 exf3 5. gxf3 d6 6. a4 Bd7 7. c4 g5 8. Bxg5 Bg4 9. fxg4 h5 10. gxh5 Kf7 11. Bxe7 Kxe7 12. h4 Rxh5 13. Qxh5 Nc6 14. a5 Qb8 15. Qe5+ Nxe5 16. dxe5 dxe5 17. c5 b6 18. cxb6 cxb6 19. axb6 axb6 20. Rxa8 Qxa8 21. h5 Qxh1 22. h6 Qxg1 23. h7 Qxf1+ 24. Kxf1 Kd8 25. hxg8=Q e4 26. Qxf8+ Kc7 27. b4 Kc6 28. b5+ Kb7 29. Nc3 Kc7 30. Nxe4 Kb7 31. Ke2 Kc7 32. Qa8 Kd7 33. Qd5+ Ke8 34. Kf3 Ke7 35. Kf4 Kf8 36. Ke5 Ke7 37. Qd4 Kf8 38. Qxb6 Ke7 39. Qd4 Kf8 40. b6 Kg7 41. b7 Kh8 42. b8=Q+ Kh7 43. Qb7+ Kh6 44. Qbd5 Kh5 45. Qa5 Kg6 46. Qad5 Kh7 47. Qf7+ Kh8 48. Kd5# 1-0

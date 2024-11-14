@@ -1,0 +1,10 @@
+[Event "Training Game - Vienna Gambit"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "46"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Vienna Gambit"]
+
+1. e4 g5 2. Nc3 f5 3. f4 gxf4 4. Qh5# 1-0

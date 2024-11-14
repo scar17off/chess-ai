@@ -1,0 +1,10 @@
+[Event "Training Game - English Opening"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "11"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "English Opening"]
+
+1. c4 Na6 2. e4 h6 3. d4 f5 4. exf5 d5 5. cxd5 Qxd5 6. Bxa6 Qxf5 7. Bxh6 bxa6 8. Bxg7 Qxb1 9. Rxb1 Bxg7 10. b4 Bxd4 11. Qxd4 Rh4 12. Qxh4 c5 13. bxc5 Kf8 14. f4 Be6 15. a4 Rd8 16. g4 Bf7 17. Qxe7+ Nxe7 18. h4 a5 19. h5 Bd5 20. g5 Bxh1 21. g6 Rd2 22. Kxd2 Nxg6 23. hxg6 Ke7 24. g7 Ke6 25. g8=Q+ Kd7 26. c6+ Bxc6 27. f5 Bd5 28. Qxd5+ Kc7 29. Qxa5+ Kd6 30. Qxa7 Kc6 31. a5 Kd6 32. a6 Kc6 33. f6 Kd5 34. Qd4+ Kxd4 35. a7 Kd5 36. a8=Q+ Kd6 37. Qe4 Kc5 38. f7 Kd6 39. f8=Q+ Kc7 40. Rb7# 1-0

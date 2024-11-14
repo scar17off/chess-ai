@@ -1,0 +1,10 @@
+[Event "Training Game - Réti Opening"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "53"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Réti Opening"]
+
+1. Nf3 f5 2. c4 h5 3. d4 Nh6 4. Bxh6 gxh6 5. e4 a5 6. exf5 e6 7. fxe6 dxe6 8. b4 Qxd4 9. Nxd4 axb4 10. Qxh5+ Ke7 11. Qxh6 Bxh6 12. Nxe6 Kxe6 13. a4 Rxa4 14. Rxa4 Bd7 15. Rxb4 Bf8 16. Rxb7 Kf5 17. Rxb8 Rxh2 18. Rxh2 c6 19. Rxf8+ Ke6 20. g4 c5 21. f4 Bb5 22. cxb5 Kd5 23. f5 Ke4 24. b6 Kf4 25. f6 Ke3 26. f7 Ke4 27. b7 Kf4 28. b8=Q+ Kxg4 29. Qe5 c4 30. Be2# 1-0

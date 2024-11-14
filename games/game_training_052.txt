@@ -1,0 +1,10 @@
+[Event "Training Game - Trompowsky Attack"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "52"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Trompowsky Attack"]
+
+1. d4 Nf6 2. e4 Nxe4 3. a4 Na6 4. Bxa6 bxa6 5. b4 f6 6. g4 Nxf2 7. Kxf2 h5 8. gxh5 f5 9. c4 a5 10. bxa5 g6 11. hxg6 Rxh2+ 12. Rxh2 e6 13. a6 Bxa6 14. c5 Bxc5 15. dxc5 e5 16. Qxd7+ Qxd7 17. c6 Qxc6 18. g7 Qxc1 19. g8=Q+ Kd7 20. Qxa8 Qxb1 21. Rxb1 Bf1 22. Kxf1 a6 23. Qxa6 f4 24. a5 Ke7 25. Kg2 e4 26. Qb6 cxb6 27. axb6 Ke6 28. b7 Kf6 29. b8=Q Kf7 30. Qxf4+ Ke8 31. Qxe4+ Kd8 32. Rb8+ Kd7 33. Rhh8 Kc7 34. Rb4 Kd6 35. Rd4+ Kc5 36. Qe5+ Kc6 37. Rh7 Kb6 38. Rd6# 1-0

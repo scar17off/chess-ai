@@ -1,0 +1,10 @@
+[Event "Training Game - Grob Opening"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "31"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Grob Opening"]
+
+1. g4 h5 2. gxh5 d5 3. d4 Rxh5 4. e4 dxe4 5. Qxh5 Qd5 6. Qxd5 f6 7. Qxg8 b5 8. Qxf8+ Kxf8 9. Bxb5 Bg4 10. c4 f5 11. a4 Kf7 12. b4 g6 13. h4 e6 14. f4 g5 15. hxg5 c5 16. bxc5 Kg6 17. c6 Nxc6 18. Bxc6 Kg7 19. Bxa8 e5 20. Bxe4 fxe4 21. fxe5 Bf3 22. Nxf3 exf3 23. a5 a6 24. g6 Kxg6 25. d5 Kf7 26. c5 Ke7 27. c6 Ke8 28. c7 Ke7 29. c8=Q f2+ 30. Kxf2 Kf7 31. Qxa6 Kf8 32. Rg1 Kf7 33. Ba3 Ke8 34. Ke3 Kf7 35. Qg6# 1-0

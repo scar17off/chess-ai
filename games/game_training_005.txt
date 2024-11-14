@@ -1,0 +1,10 @@
+[Event "Training Game - Pirc Defense"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "5"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Pirc Defense"]
+
+1. e4 g5 2. d4 Nh6 3. Bxg5 d5 4. Bxh6 Bxh6 5. exd5 Qxd5 6. f4 Qxa2 7. Rxa2 Bxf4 8. Rxa7 Rxa7 9. b4 Bxh2 10. Rxh2 e6 11. Rxh7 Rxh7 12. g4 b5 13. Bxb5+ Kd8 14. c4 Rh5 15. gxh5 f5 16. c5 Ra2 17. d5 exd5 18. Qxd5+ Ke7 19. Qxa2 Nc6 20. Bxc6 Ba6 21. Qxa6 Kd8 22. Be4 fxe4 23. c6 Ke7 24. b5 Kf8 25. h6 Kg8 26. h7+ Kxh7 27. b6 Kg6 28. bxc7 Kf6 29. c8=Q Ke5 30. c7 Kd5 31. Na3 e3 32. Nc2 e2 33. Qf5# 1-0

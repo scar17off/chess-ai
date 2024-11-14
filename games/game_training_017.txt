@@ -1,0 +1,10 @@
+[Event "Training Game - Nimzo-Indian Defense"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "17"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Nimzo-Indian Defense"]
+
+1. d4 b5 2. c4 a5 3. Nc3 f5 4. cxb5 d5 5. Nxd5 Qxd5 6. e4 Qxb5 7. Bxb5+ Nc6 8. Bxc6+ Bd7 9. Bxa8 fxe4 10. Bxe4 e5 11. dxe5 Bh3 12. gxh3 a4 13. Qxa4+ Ke7 14. Bxh7 Rxh7 15. f4 Rxh3 16. Nxh3 Kd8 17. b4 Bxb4+ 18. Qxb4 Kc8 19. a4 c5 20. Qxc5+ Kb7 21. a5 Nh6 22. a6+ Ka8 23. f5 Nxf5 24. Qd5+ Ka7 25. Qb7# 1-0

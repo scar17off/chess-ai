@@ -1,0 +1,10 @@
+[Event "Training Game - Latvian Gambit"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "36"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Latvian Gambit"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 Qxd5 4. Nxe5 Qxe5+ 5. Be2 h5 6. d4 Qxd4 7. Qxd4 f5 8. Bxh5+ Rxh5 9. Qxg7 Bxg7 10. f4 Rxh2 11. Rxh2 Kf7 12. b4 Bxa1 13. a4 a6 14. c4 Nh6 15. Rxh6 c5 16. bxc5 Ke8 17. Rxa6 Rxa6 18. g4 b5 19. axb5 fxg4 20. bxa6 Bg7 21. a7 Bf5 22. axb8=Q+ Ke7 23. c6 Bxb1 24. Qxb1 g3 25. Qe4+ Be5 26. fxe5 g2 27. Qxg2 Ke8 28. Qd5 Kf8 29. c5 Ke7 30. c7 Kf8 31. c8=Q+ Kg7 32. Qdg8# 1-0

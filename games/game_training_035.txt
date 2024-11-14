@@ -1,0 +1,10 @@
+[Event "Training Game - Philidor Defense"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "35"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Philidor Defense"]
+
+1. e4 b5 2. Nf3 g6 3. Bxb5 h5 4. d4 Bb7 5. c4 Bxe4 6. a4 Bxf3 7. gxf3 Nh6 8. Bxh6 Rxh6 9. b4 f5 10. Bxd7+ Qxd7 11. h4 Qxa4 12. Qxa4+ Nc6 13. Qxc6+ Kd8 14. Qxa8+ Kd7 15. Qxf8 f4 16. Qxh6 a6 17. Qxf4 a5 18. bxa5 e5 19. Qxe5 c5 20. dxc5 Kd8 21. Qxh5 gxh5 22. c6 Ke7 23. c5 Ke6 24. a6 Kf5 25. a7 Ke5 26. a8=Q Kd4 27. f4 Kxc5 28. f3 Kb6 29. f5 Kc5 30. c7 Kb6 31. c8=Q Kb5 32. Qab8# 1-0

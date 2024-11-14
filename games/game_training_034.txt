@@ -1,0 +1,10 @@
+[Event "Training Game - Saragossa Opening"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "34"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Saragossa Opening"]
+
+1. c3 d5 2. d4 c5 3. dxc5 Be6 4. Qxd5 Bxd5 5. e4 Bxa2 6. Rxa2 a5 7. Rxa5 Qxa5 8. h4 Qxc5 9. f4 Qxg1 10. Rxg1 Nf6 11. g4 h5 12. gxh5 g6 13. hxg6 fxg6 14. Rxg6 Ng4 15. Rxg4 Kf7 16. b4 e5 17. fxe5 Rh5 18. c4 Bxb4+ 19. Nd2 Bxd2+ 20. Bxd2 Rxe5 21. c5 Rxc5 22. h5 Rb5 23. Bxb5 Ra5 24. Bxa5 Nd7 25. Bxd7 b5 26. Bxb5 Kf8 27. h6 Kf7 28. e5 Ke7 29. h7 Kf8 30. h8=Q+ Kf7 31. Qf6# 1-0

@@ -1,0 +1,10 @@
+[Event "Training Game - Benoni Defense"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "23"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Benoni Defense"]
+
+1. d4 f5 2. c4 Nh6 3. Bxh6 gxh6 4. e4 fxe4 5. Qh5# 1-0

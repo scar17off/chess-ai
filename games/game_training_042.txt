@@ -1,0 +1,10 @@
+[Event "Training Game - Ponziani Opening"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "42"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Ponziani Opening"]
+
+1. e4 f6 2. Nf3 g5 3. c3 Nh6 4. Nxg5 fxg5 5. d4 e5 6. dxe5 Bg7 7. Bxg5 Qxg5 8. Qxd7+ Nxd7 9. h4 Nxe5 10. hxg5 Kd7 11. gxh6 b5 12. hxg7 Bb7 13. gxh8=Q Rxh8 14. Bxb5+ Kd8 15. Rxh7 Rxh7 16. g4 a6 17. Bxa6 Bxa6 18. a4 Rh2 19. f4 Rxb2 20. fxe5 Rxb1+ 21. Rxb1 Bb5 22. axb5 c6 23. bxc6 Kc7 24. g5 Kxc6 25. g6 Kd7 26. g7 Ke7 27. g8=Q Kd7 28. c4 Ke7 29. Rb7# 1-0

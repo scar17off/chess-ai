@@ -1,0 +1,10 @@
+[Event "Training Game - Elephant Gambit"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "37"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Elephant Gambit"]
+
+1. e4 e5 2. Nf3 c5 3. Nxe5 Nh6 4. Nxd7 Nxd7 5. d4 cxd4 6. Bxh6 gxh6 7. Qxd4 f5 8. Qxh8 fxe4 9. Qxh7 Nf6 10. Qxe4+ Nxe4 11. a4 Nxf2 12. Kxf2 b5 13. axb5 a6 14. bxa6 Bxa6 15. Bxa6 Rxa6 16. Rxa6 Qb8 17. Rxh6 Bxh6 18. h4 Qxb2 19. g4 Qxb1 20. Rxb1 Be3+ 21. Kxe3 Ke7 22. c4 Kf7 23. c5 Kg6 24. c6 Kf6 25. Ke4 Ke6 26. h5 Kd6 27. c7 Kxc7 28. h6 Kc8 29. g5 Kd7 30. g6 Kd8 31. h7 Kc7 32. h8=Q Kd6 33. Qd4+ Kc6 34. g7 Kc7 35. g8=Q Kc6 36. Qgc4# 1-0

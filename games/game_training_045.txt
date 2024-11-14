@@ -1,0 +1,10 @@
+[Event "Training Game - Bishop's Opening"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "45"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Bishop's Opening"]
+
+1. e4 a5 2. Bc4 c6 3. d4 b6 4. b4 e5 5. dxe5 Bxb4+ 6. c3 Ra7 7. cxb4 Qf6 8. exf6 c5 9. bxc5 gxf6 10. cxb6 a4 11. bxa7 h5 12. axb8=Q a3 13. Qxc8+ Ke7 14. Qdxd7# 1-0

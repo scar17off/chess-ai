@@ -1,0 +1,10 @@
+[Event "Training Game - King's Indian Attack"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "47"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "King's Indian Attack"]
+
+1. Nf3 d5 2. g3 g6 3. e4 a5 4. exd5 c5 5. dxc6 bxc6 6. d4 Nh6 7. Bxh6 Bxh6 8. c4 e5 9. dxe5 Bf8 10. b4 Bxb4+ 11. Nfd2 Bxd2+ 12. Nxd2 Rg8 13. a4 Ke7 14. h4 c5 15. f4 Bd7 16. g4 Bxa4 17. Rxa4 Ra6 18. Rxa5 Qxa5 19. h5 Rd6 20. exd6+ Kf6 21. hxg6 Rxg6 22. Rxh7 Qc7 23. dxc7 Rxg4 24. cxb8=Q Rxf4 25. Qxf4+ Ke7 26. Qxf7+ Kd6 27. Qd5# 1-0

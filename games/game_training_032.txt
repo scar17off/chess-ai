@@ -1,0 +1,10 @@
+[Event "Training Game - Bird's Opening"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "32"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Bird's Opening"]
+
+1. f4 e6 2. e4 d5 3. exd5 Qxd5 4. d4 Bd7 5. a4 Bxa4 6. Rxa4 Nc6 7. Rxa7 Rxa7 8. g4 Qxh1 9. c4 Nxd4 10. Qxd4 Qxg1 11. Qxg1 g6 12. Qxa7 Ba3 13. bxa3 c6 14. Qxb7 Nh6 15. Qxc6+ Ke7 16. Qxe6+ fxe6 17. h4 e5 18. fxe5 Nxg4 19. c5 Rc8 20. h5 Nxe5 21. hxg6 Rxc5 22. gxh7 Rxc1+ 23. Kd2 Rxb1 24. h8=Q Rxf1 25. Qxe5+ Kf8 26. a4 Rf2+ 27. Kc3 Rh2 28. Qxh2 Kg7 29. a5 Kg6 30. Qe5 Kf7 31. Kd4 Kf8 32. a6 Kf7 33. a7 Kf8 34. a8=Q+ Kf7 35. Qae8# 1-0

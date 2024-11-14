@@ -1,0 +1,8 @@
+chess
+numpy
+tensorflow
+pygame
+gradio
+plotly
+requests
+matplotlib

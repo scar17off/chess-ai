@@ -1,0 +1,6 @@
+{
+    "DEFAULT_NUM_GAMES": 100,
+    "MIN_MOVES_PER_GAME": 20,
+    "MAX_MOVES_PER_GAME": 100,
+    "NUM_WORKERS": 4
+}

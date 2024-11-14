@@ -1,0 +1,10 @@
+[Event "Training Game - Giuoco Piano"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "40"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Giuoco Piano"]
+
+1. e4 a5 2. Nf3 f5 3. Bc4 b5 4. Bxg8 Rxg8 5. exf5 d6 6. d4 Bb7 7. a4 Bxf3 8. gxf3 d5 9. axb5 c5 10. bxc6 Nxc6 11. Rxa5 Nxa5 12. b4 Kd7 13. bxa5 Rxa5 14. h4 Ra1 15. c4 Rxb1 16. cxd5 Rxc1 17. Qxc1 h6 18. Qc6# 1-0

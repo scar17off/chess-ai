@@ -1,0 +1,10 @@
+[Event "Training Game - Ruy Lopez"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "2"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Ruy Lopez"]
+
+1. e4 h5 2. Nf3 d5 3. Bb5+ Nd7 4. exd5 a6 5. Bxa6 Rxa6 6. d4 Rxa2 7. Rxa2 g6 8. c4 b5 9. cxb5 Nh6 10. Bxh6 Bxh6 11. b4 e5 12. dxe5 O-O 13. h4 Nxe5 14. Nxe5 Qxh4 15. Rxh4 Be6 16. dxe6 f5 17. Rxh5 gxh5 18. Qxh5 Kh8 19. Qxh6+ Kg8 20. Qxf8+ Kxf8 21. f4 Kg7 22. g4 fxg4 23. Nxg4 Kg8 24. e7 c6 25. e8=Q+ Kg7 26. Ra7# 1-0

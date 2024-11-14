@@ -1,0 +1,10 @@
+[Event "Training Game - King's Gambit"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "16"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "King's Gambit"]
+
+1. e4 d5 2. f4 dxe4 3. d4 Qd5 4. g4 Qxd4 5. Qxd4 b6 6. Qxe4 g6 7. Qxa8 Bxg4 8. Qxb8+ Bc8 9. Qxc8# 1-0

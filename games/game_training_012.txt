@@ -1,0 +1,10 @@
+[Event "Training Game - Scottish Game"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "12"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Scottish Game"]
+
+1. e4 d5 2. Nf3 dxe4 3. d4 exf3 4. gxf3 b6 5. b4 g6 6. h4 Qxd4 7. Qxd4 c5 8. Qxh8 cxb4 9. Qxg8 h6 10. Qxf8+ Kxf8 11. Bxh6+ Kg8 12. c4 Nc6 13. a4 bxa3 14. Nxa3 e5 15. f4 exf4 16. Bxf4 b5 17. cxb5 g5 18. bxc6 gxf4 19. h5 Bd7 20. cxd7 Kh7 21. d8=Q Rxd8 22. f3 Kg7 23. h6+ Kh8 24. h7 Rb8 25. Bc4 Re8+ 26. Kf2 Rf8 27. Bxf7 Rxf7 28. Rhe1 Rxh7 29. Re5 Rg7 30. Rc1 Re7 31. Rxe7 a5 32. Rc8# 1-0

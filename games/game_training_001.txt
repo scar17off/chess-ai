@@ -1,0 +1,10 @@
+[Event "Training Game - Italian Game"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "1"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Italian Game"]
+
+1. e4 c6 2. Nf3 e5 3. Bc4 b6 4. Nxe5 f5 5. Bxg8 Rxg8 6. exf5 Qg5 7. Nxc6 Nxc6 8. d4 Qxc1 9. Qxc1 Nb8 10. h4 h5 11. b4 d5 12. g4 Ba6 13. gxh5 g6 14. hxg6 Rxg6 15. fxg6 Bxb4+ 16. c3 Bxc3+ 17. Nxc3 Bb5 18. Nxb5 a5 19. f4 Kd8 20. a4 Ke8 21. f5 Kd7 22. g7 Ra6 23. g8=Q Ke7 24. Qxb8 Kd7 25. Qcc7# 1-0

@@ -1,0 +1,10 @@
+[Event "Training Game - French Defense"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "3"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "French Defense"]
+
+1. e4 a5 2. d4 Nc6 3. c4 g6 4. f4 f5 5. exf5 Nxd4 6. Qxd4 gxf5 7. Qxh8 h6 8. Qxg8 d5 9. Qxf8+ Kxf8 10. cxd5 Qxd5 11. g4 Qxh1 12. gxf5 Qxg1 13. h4 Qxf1+ 14. Kxf1 Bxf5 15. b4 Bxb1 16. Rxb1 Rb8 17. bxa5 e6 18. Rxb7 Rxb7 19. a4 Ke7 20. a6 c6 21. axb7 c5 22. b8=Q Kf7 23. a5 e5 24. fxe5 Kg7 25. Bxh6+ Kxh6 26. a6 Kg7 27. a7 c4 28. a8=Q c3 29. Qd5 Kh6 30. h5 Kxh5 31. Qb6 Kg4 32. Qbd4+ Kg3 33. Qg2# 1-0

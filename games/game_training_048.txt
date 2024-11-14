@@ -1,0 +1,10 @@
+[Event "Training Game - Catalan Opening"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "48"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Catalan Opening"]
+
+1. d4 g5 2. c4 e5 3. g3 g4 4. dxe5 f5 5. exf6 d5 6. cxd5 Nxf6 7. e4 b6 8. Qxg4 Nxg4 9. f4 Nxh2 10. Rxh2 c6 11. dxc6 Nxc6 12. Rxh7 Rxh7 13. a4 Qd5 14. exd5 Rh2 15. dxc6 Rxb2 16. Bxb2 Bb4+ 17. Nd2 Bxd2+ 18. Kxd2 Ba6 19. Bxa6 Rc8 20. Bxc8 a6 21. Bxa6 Ke7 22. f5 Kd8 23. a5 bxa5 24. Rxa5 Ke8 25. g4 Kf8 26. c7 Ke8 27. c8=Q+ Kf7 28. Re5 Kg7 29. Bd4 Kh7 30. f6 Kg6 31. g5 Kh7 32. Bd3# 1-0

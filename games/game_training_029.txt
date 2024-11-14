@@ -1,0 +1,10 @@
+[Event "Training Game - Sokolsky Opening"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "29"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Sokolsky Opening"]
+
+1. b4 h5 2. d4 a5 3. bxa5 Nf6 4. e4 Nxe4 5. Qxh5 Rxh5 6. g4 Raxa5 7. gxh5 Nxf2 8. Kxf2 Rxa2 9. Rxa2 d6 10. h4 b5 11. Bxb5+ Qd7 12. Bxd7+ Bxd7 13. c4 f6 14. h6 e5 15. dxe5 fxe5 16. hxg7 Bxg7 17. c5 dxc5 18. h5 Bc6 19. h6 Bxh1 20. hxg7 Na6 21. g8=Q+ Kd7 22. Rxa6 Be4 23. Ne2 Bxb1 24. Nd4 exd4 25. Qd5+ Kc8 26. Ra8# 1-0

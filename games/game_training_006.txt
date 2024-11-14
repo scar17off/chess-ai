@@ -1,0 +1,10 @@
+[Event "Training Game - Sicilian Defense"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "6"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Sicilian Defense"]
+
+1. e4 c5 2. d4 f5 3. exf5 cxd4 4. Qxd4 e5 5. fxe6 a5 6. exd7+ Bxd7 7. Qxg7 Bxg7 8. a4 Bxb2 9. Bxb2 h6 10. Bxh8 Bc8 11. h4 Qxh4 12. Rxh4 Bf5 13. Rxh6 Nxh6 14. g4 Bxg4 15. f4 Be6 16. c4 Bxc4 17. Bxc4 Nc6 18. Bd4 Nxd4 19. Bd5 Kf8 20. Bxb7 Ra7 21. Bd5 Rg7 22. f5 Rxg1+ 23. Kf2 Rxb1 24. Rxb1 Ndxf5 25. Rg1 Nd6 26. Re1 Ndf7 27. Bxf7 Kxf7 28. Re5 Kf8 29. Rxa5 Kg7 30. Re5 Kg6 31. a5 Nf5 32. Rxf5 Kxf5 33. a6 Kg4 34. a7 Kh4 35. a8=Q Kh3 36. Qd5 Kh2 37. Qg2# 1-0

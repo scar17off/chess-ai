@@ -1,0 +1,10 @@
+[Event "Training Game - Anderssen Opening"]
+[Site "?"]
+[Date "2024.11.08"]
+[Round "26"]
+[White "Engine Strong"]
+[Black "Engine Weak"]
+[Result "1-0"]
+[Opening "Anderssen Opening"]
+
+1. a3 b5 2. e4 e5 3. Bxb5 Ba6 4. Bxa6 Nxa6 5. d4 Bxa3 6. bxa3 exd4 7. Qxd4 h5 8. Qxg7 f5 9. Qxh8 c6 10. Qxg8+ Ke7 11. Qxd8+ Rxd8 12. exf5 c5 13. f4 Rf8 14. g4 d5 15. gxh5 Rf6 16. c4 Rxf5 17. cxd5 Ke8 18. h4 Rxd5 19. h6 Nb4 20. axb4 cxb4 21. Rxa7 Rd1+ 22. Kxd1 Kf8 23. h5 b3 24. f5 b2 25. Bxb2 Ke8 26. Be5 Kf8 27. h7 Ke8 28. h8=Q# 1-0
