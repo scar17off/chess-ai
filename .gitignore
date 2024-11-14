@@ -1,6 +1,7 @@
 pieces/
 __pycache__/
 models/
+.vscode/
 
 *.pkl
 *.svg
